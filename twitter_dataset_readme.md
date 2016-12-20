@@ -22,9 +22,9 @@ were collected the week following the death of Nelson Mandela on December 5, 201
 using the twarc (https://github.com/edsu/twarc) package that makes use of Twitter's 
 search API.  The following searches are included in this dataset.
 
-#NelsonMandela
-#RIPNelsonMandela
-"Nelson Mandela"
+* `#NelsonMandela`
+* `#RIPNelsonMandela`
+* `"Nelson Mandela"`
 
 Twitter data making up this dataset was captured between 2013-06-25 and 2013-07-03. 
 
